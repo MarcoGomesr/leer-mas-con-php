@@ -1,4 +1,4 @@
 leer-mas-con-php
 ================
 
-metodo para mostrar todos los datos de un blog
+Ejemplo de como crear el boton de leer mas de un blog desarrollado con php
